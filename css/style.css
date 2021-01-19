@@ -6,21 +6,36 @@
 .active > a:hover, .navbar-inverse .navbar-nav > 
 .active > a:focus {
 
-background-color: #E41B17;
+	background-color: #E41B17;
 } 
 
 /* navbar link */
+.navbar {
+	min-height: 70px;
+}
 
 .navbar-inverse .navbar-nav > li > a {
-color: #BBB;
+	color: #BBB;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	font-size: 16px;
 }
 
 /* Brand Name */
 
 .navbar-inverse .navbar-brand {
-color: #BBB;
+	color: #BBB;
+	font-size: 30px;
+	line-height: 40px;
 }
+.navbar-inverse .navbar-brand span {
+	color: #E41B17;
+}
+/* Navbar Toggle */
 
+.navbar-toggle {
+	margin-top: 18px;
+}
 /* dropdown */
 
 .dropdown-menu {
@@ -30,21 +45,27 @@ min-width: 200px;
 }
 
 .dropdown-menu > li > a {
-color: #FFF;
-padding: 6px 20px;
--webkit-transition: padding .5s ease;
--moz-transition: padding .5s ease;
--o-transition: padding .5s ease;
-transition: padding .5s ease;
+	color: #FFF;
+	padding: 6px 20px;
+	-webkit-transition: padding .5s ease;
+	-moz-transition: padding .5s ease;
+	-o-transition: padding .5s ease;
+	transition: padding .5s ease;
+}
+
+.navbar-right .dropdown-menu {
+	left: 0;
+	right: auto;
 }
 .dropdown-menu > li > a:hover,
 .dropdown-menu > li > a:focus {
 
-background-color: #E41B17;
-color: #fff;
-padding-left: 25px;
+	background-color: #E41B17;
+	color: #fff;
+	padding-left: 25px;
 }
 
 .dropdown-menu .divider {
 	background-color: #791313;
 }
+

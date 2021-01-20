@@ -2,11 +2,8 @@
  include 'header.php';
  include 'navbar.php';
   ?>
-	
-
 
 <!-- Start Carousal  -->
-
 
 <div id="slide" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
@@ -76,6 +73,20 @@
 </div>
 
 <!-- End Carousal -->
+
+
+<!-- Start About section -->
+
+<section class="about text-center">
+	<div class="container">
+
+		<h1>Section About <span>KemoByte</span></h1>
+		<p class="lead"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut <strong>magna</strong> aliqua. </p>
+	</div>
+</section>
+
+<!-- End About Section -->
 
 <!-- <br>
 <br>

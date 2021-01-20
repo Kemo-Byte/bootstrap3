@@ -1,23 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta chrset="utf-8"/>
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-    		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Bootstrap</title>
+<?php include 'header.php' ?>
 
-		<link rel="stylesheet" href="css/bootstrap.css"/>
-		<link rel="stylesheet" href="css/style.css"/>
-
-		<!-- tmlTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-		<!--[if lt IE 9]>
-		<script src="js/html5shiv.min.js"></script>
-		<script src="js/respond.min.js"></script>
-		<![endif]-->
-	</head>
-	<body> 
-		
 			<!-- Start Navbar -->
 
 		<nav class="navbar navbar-inverse  navbar-fixed-top">
@@ -41,21 +23,23 @@
 		    <div class="collapse navbar-collapse" id="ournavbar">
 
 		      <ul class="nav navbar-nav navbar-right">
-						<li class="active"><a href="#">Active link <span class="sr-only">(current)</span></a></li>
-						<li><a href="#">Normal link</a></li>
-						<li><a href="#">Normal link</a></li>
+						<li class="active"><a href="#"><?= lang('Home') ?> <span class="sr-only">(current)</span></a></li>
+						<li><a href="#"><?= lang('About') ?></a></li>
+						<li><a href="#"><?= lang('Company') ?></a></li>
 
 						<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><?= lang('services') ?> <span class="caret"></span></a>
 						<ul class="dropdown-menu">
-							<li><a href="#">Action</a></li>
-							<li><a href="#">Another action</a></li>
-							<li><a href="#">Something else here</a></li>
+							<li><a href="#"><?= lang('Programming') ?></a></li>
+							<li><a href="#"><?= lang('Web Design') ?></a></li>
+							<li><a href="#"><?= lang('Desktop') ?></a></li>
 							<li role="separator" class="divider"></li>
-							<li><a href="#">Separated link</a></li>
+							<li><a href="#"><?= lang('Web Hosting') ?></a></li>
 		
 						</ul>
 							</li>
+								<li><a href="#"><?= lang('Map') ?></a></li>
+						<li><a href="#"><?= lang('Contact') ?></a></li>
 		  	 </ul>
 		  
 		
@@ -65,8 +49,4 @@
 <!-- End Navbar -->
 
 
-		<script src="js/jquery-1.11.1.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/plugins.js"></script>
-	</body>
-</html>
+<?php include 'footer.php' ?>

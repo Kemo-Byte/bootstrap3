@@ -1,4 +1,8 @@
-
+/*My Styles*/
+body {
+	margin-top: 70px;
+	
+}
 /* active link */
 
 .navbar-inverse .navbar-nav >
@@ -69,3 +73,27 @@ min-width: 200px;
 	background-color: #791313;
 }
 
+/* Carousal */
+.carousel-caption {
+	bottom: 70px;
+	background: rgba(3,3,3,0.3);
+	padding-right: 20px;
+	padding-left: 20px;
+
+}
+
+.carousel-indicators {
+	bottom: 0;
+}
+
+.carousel-indicators li {
+	width: 15px;
+	height: 15px;
+	border: 1px solid #eee;
+}
+.carousel-indicators li.active {
+	width: 17px;
+	height: 17px;
+	background:  #E41B17;
+	border: none;
+}

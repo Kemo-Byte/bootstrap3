@@ -1,4 +1,4 @@
-<?php include 'langs/english.php' ?>
+<?php (isset($_GET['lang']))? include 'langs/'.$_GET["lang"].'.php' : include 'langs/english.php' ?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -8,6 +8,7 @@
 		<title>Bootstrap</title>
 
 		<link rel="stylesheet" href="css/bootstrap.css"/>
+		<!-- <link rel="stylesheet" href="css/bootstrap_rtl.css"/> -->
 		<link rel="stylesheet" href="css/style.css"/>
 
 		<!-- tmlTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->

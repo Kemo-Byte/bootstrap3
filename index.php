@@ -82,11 +82,70 @@
 
 		<h1>Section About <span>KemoByte</span></h1>
 		<p class="lead"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-		tempor incididunt ut <strong>magna</strong> aliqua. </p>
+		tempor incididunt ut <strong>magna</strong> . </p>
 	</div>
 </section>
 
 <!-- End About Section -->
+
+
+<!-- Start Features Section -->
+
+<section class="features text-center">
+	
+	<div class="container">
+		<h1><span>KemoByte</span> Features</h1>
+		
+		<div class="row">
+			<div class="col-lg-3 col-md-6">
+
+				<div class="feat">
+					<span class="glyphicon glyphicon-ok"></span>
+					<h3>Responsive 100%</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua.</p>
+				</div>
+
+			</div>
+
+			<div class="col-lg-3 col-md-6">
+
+				<div class="feat">
+					<span class="glyphicon glyphicon-eye-open"></span>
+					<h3>Awesome Display</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua.</p>
+				</div>
+
+			</div>
+
+			<div class="col-lg-3 col-md-6">
+
+				<div class="feat">
+					<span class="glyphicon glyphicon-thumbs-up"></span>
+					<h3>Retina Ready</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua.</p>
+				</div>
+
+			</div>
+
+			<div class="col-lg-3 col-md-6">
+
+				<div class="feat">
+					<span class="glyphicon glyphicon-pencil"></span>
+					<h3>Well Documentedd</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua.</p>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<!-- End Features Section -->
 
 <!-- <br>
 <br>

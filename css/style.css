@@ -119,7 +119,48 @@ min-width: 200px;
 	color: #888;
 }
 
+.about h1 {
+	font-weight: bold;
+}
+
 .about h1 span {
 	color: #E41B17;
 }
 /*End Section About*/
+
+
+/*Start Section Features*/
+.features {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #EEE;
+}
+
+.features h1 {
+	margin-bottom: 50px;
+}
+
+.features h1 span {
+	color:#E41B17;
+}
+
+.features .feat  {
+	margin-bottom: 30px;
+}
+
+.features .feat p {
+	line-height: 2em;
+}
+
+.features .feat span.glyphicon {
+	font-size: 25px;
+	margin-bottom: 10px;
+}
+/*End Section Features*/
+
+/*Start Testimonials*/
+
+
+
+
+/*End Testimonials*/

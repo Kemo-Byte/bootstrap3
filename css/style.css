@@ -159,8 +159,14 @@ min-width: 200px;
 /*End Section Features*/
 
 /*Start Testimonials*/
+.testimonials h1 {
+	font-weight: bold;
+	margin-bottom: 20px;
+}
 
-
+.testimonials .lead {
+	line-height: 2em;
+}
 
 
 /*End Testimonials*/

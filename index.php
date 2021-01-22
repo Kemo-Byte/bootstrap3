@@ -102,8 +102,7 @@
 				<div class="feat">
 					<span class="glyphicon glyphicon-ok"></span>
 					<h3>Responsive 100%</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 				</div>
 
 			</div>
@@ -113,8 +112,7 @@ tempor incididunt ut labore et dolore magna aliqua.</p>
 				<div class="feat">
 					<span class="glyphicon glyphicon-eye-open"></span>
 					<h3>Awesome Display</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 				</div>
 
 			</div>
@@ -124,8 +122,7 @@ tempor incididunt ut labore et dolore magna aliqua.</p>
 				<div class="feat">
 					<span class="glyphicon glyphicon-thumbs-up"></span>
 					<h3>Retina Ready</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 				</div>
 
 			</div>
@@ -135,8 +132,7 @@ tempor incididunt ut labore et dolore magna aliqua.</p>
 				<div class="feat">
 					<span class="glyphicon glyphicon-pencil"></span>
 					<h3>Well Documentedd</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 				</div>
 
 			</div>
@@ -146,6 +142,74 @@ tempor incididunt ut labore et dolore magna aliqua.</p>
 
 
 <!-- End Features Section -->
+
+<!-- Start Testimonials Section -->
+
+<section class="testimonials text-center">
+
+	<div class="container">
+		<h1>What does our clients say</h1>
+
+
+		<!-- Start Testimonials Carousal  -->
+
+		<div id="testimonials_slide" class="carousel slide" data-ride="carousel">
+			  <!-- Indicators -->
+			  <ol class="carousel-indicators  hidden-xs">
+			    <li data-target="#testimonials_slide" data-slide-to="0" class="active"></li>
+			    <li data-target="#testimonials_slide" data-slide-to="1"></li>
+			    <li data-target="#testimonials_slide" data-slide-to="2"></li>
+			    <li data-target="#testimonials_slide" data-slide-to="3"></li>
+			  </ol>
+
+			  <!-- Wrapper for slides -->
+			  <div class="carousel-inner" role="listbox">
+
+			    <div class="item active">
+			    
+			        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			        quis nostrud exercitation ullamco laboris nisi ut aliq</p>
+			        <span>Kamal kafi</span>
+			    
+			    </div>
+
+			   <div class="item">
+			    
+			        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			        quis nostrud exercitation ullamco laboris nisi ut aliq</p>
+			    	<span>Ahmed Adam</span>
+
+			    </div>
+
+			    <div class="item">
+			    
+			        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			        quis nostrud exercitation ullamco laboris nisi ut aliq</p>
+			    	<span>Mohammed Hamid</span>
+
+			    </div>
+
+			    <div class="item">
+			    
+			        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			        quis nostrud exercitation ullamco laboris nisi ut aliq</p>
+			    	<span>Bashier idrees</span>
+			    	
+			    </div>
+			</div>
+		</div>
+
+		<!-- End Testimonials Carousal -->
+	</div>
+
+
+</section>
+
+<!-- End Testimonials Section -->
 
 <!-- <br>
 <br>

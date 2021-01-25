@@ -155,12 +155,7 @@
 
 		<div id="testimonials_slide" class="carousel slide" data-ride="carousel">
 			  <!-- Indicators -->
-			  <ol class="carousel-indicators  hidden-xs">
-			    <li data-target="#testimonials_slide" data-slide-to="0" class="active"></li>
-			    <li data-target="#testimonials_slide" data-slide-to="1"></li>
-			    <li data-target="#testimonials_slide" data-slide-to="2"></li>
-			    <li data-target="#testimonials_slide" data-slide-to="3"></li>
-			  </ol>
+			 
 
 			  <!-- Wrapper for slides -->
 			  <div class="carousel-inner" role="listbox">
@@ -201,6 +196,13 @@
 			    	
 			    </div>
 			</div>
+			
+			 <ol class="carousel-indicators  hidden-xs">
+			    <li data-target="#testimonials_slide" data-slide-to="0" class="active"></li>
+			    <li data-target="#testimonials_slide" data-slide-to="1"></li>
+			    <li data-target="#testimonials_slide" data-slide-to="2"></li>
+			    <li data-target="#testimonials_slide" data-slide-to="3"></li>
+			  </ol>
 		</div>
 
 		<!-- End Testimonials Carousal -->

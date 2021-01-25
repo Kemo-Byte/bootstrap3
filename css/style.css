@@ -166,7 +166,16 @@ min-width: 200px;
 
 .testimonials .lead {
 	line-height: 2em;
+	margin-bottom: 10px;
 }
 
+.testimonials span {
+	font-size: 18px;
+	font-weight: bold;
+	color: #E41B17;
+}
 
+.testimonials .carousel-inner {
+	min-height: 160px;
+}
 /*End Testimonials*/

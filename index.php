@@ -174,7 +174,7 @@
 			        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 			        quis nostrud exercitation ullamco laboris nisi ut aliq</p>
-			    	<span>Ahmed Adam</span>
+			    	<span>Mustafa waleed</span>
 
 			    </div>
 
@@ -198,10 +198,18 @@
 			</div>
 			
 			 <ol class="carousel-indicators  hidden-xs">
-			    <li data-target="#testimonials_slide" data-slide-to="0" class="active"></li>
-			    <li data-target="#testimonials_slide" data-slide-to="1"></li>
-			    <li data-target="#testimonials_slide" data-slide-to="2"></li>
-			    <li data-target="#testimonials_slide" data-slide-to="3"></li>
+			    <li data-target="#testimonials_slide" data-slide-to="0" class="active">
+			    	<img src="images/av1.jpg" alt="one" />
+			    </li>
+			    <li data-target="#testimonials_slide" data-slide-to="1">
+			    	<img src="images/av2.png" alt="two" />
+			    </li>
+			    <li data-target="#testimonials_slide" data-slide-to="2">
+			    	<img src="images/av3.jpg" alt="three" />
+			    </li>
+			    <li data-target="#testimonials_slide" data-slide-to="3">
+			    	<img src="images/av4.png" alt="four" />
+			    </li>
 			  </ol>
 		</div>
 

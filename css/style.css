@@ -178,4 +178,42 @@ min-width: 200px;
 .testimonials .carousel-inner {
 	min-height: 160px;
 }
+
+.testimonials .carousel-indicators {
+	position: static;
+	margin-left: auto;
+	width: 100%;
+
+}
+
+.testimonials .carousel-indicators li {
+	text-indent: 0;
+	width: 80px;
+	height: 80px;
+	opacity: 0.4;
+	border: 3px solid #fff;
+	border-radius: 50px;
+	overflow: hidden;
+	margin: 5px;
+
+	-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	transition: all 1s ease;
+}
+
+.testimonials .carousel-indicators li.active {
+	width: 80px;
+	height: 80px;
+	background-color: none;
+	opacity: 1;
+	border: 2px solid #E41B17;
+	
+} 
+
+.testimonials .carousel-indicators li img {
+	max-width: 100%;
+
+}
+
 /*End Testimonials*/

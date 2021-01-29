@@ -217,9 +217,100 @@
 	</div>
 
 
+
 </section>
 
 <!-- End Testimonials Section -->
+
+
+<!-- Start Price Table Section -->
+
+<section class="price_table text-center">
+
+	<div class="container">
+		<h1> Our Amazing Price </h1>
+
+		<div class="row">
+
+			<div class="col-lg-3 col-sm-6 col-xs-12">
+				<div class="price_box">
+					<h2 class="text-primary">Hosting</h2>
+					<p class="center-block"> 40$ </p>
+
+					<ul class="list-unstyled">
+						<li>Space: 30GB</li>
+						<li>Emails: 20</li>
+						<li>IPs: 2 IP</li>
+						<li>Databases: 10</li>
+						<li>FTP Accounts: 5</li>
+					</ul>
+
+					<a href="#" class="btn btn-primary">Order Now</a>
+
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-sm-6 col-xs-12">
+				<div class="price_box">
+					<h2 class="text-success">VPS</h2>
+					<p class="center-block"> 50$ </p>
+
+					<ul class="list-unstyled">
+						<li>Space: 30GB</li>
+						<li>Emails: 20</li>
+						<li>IPs: 2 IP</li>
+						<li>Databases: 10</li>
+						<li>FTP Accounts: 5</li>
+					</ul>
+
+					<a href="#" class="btn btn-success">Order Now</a>
+
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-sm-6 col-xs-12">
+				<div class="price_box">
+					<h2 class="text-info">Didecated</h2>
+					<p class="center-block"> 70$ </p>
+
+					<ul class="list-unstyled">
+						<li>Space: 30GB</li>
+						<li>Emails: 20</li>
+						<li>IPs: 2 IP</li>
+						<li>Databases: 10</li>
+						<li>FTP Accounts: 5</li>
+					</ul>
+
+					<a href="#" class="btn btn-info">Order Now</a>
+
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-sm-6 col-xs-12">
+				<div class="price_box">
+					<h2 class="text-danger">Cloud</h2>
+					<p class="center-block"> 90$ </p>
+
+					<ul class="list-unstyled">
+						<li>Space: 30GB</li>
+						<li>Emails: 20</li>
+						<li>IPs: 2 IP</li>
+						<li>Databases: 10</li>
+						<li>FTP Accounts: 5</li>
+					</ul>
+
+					<a href="#" class="btn btn-danger">Order Now</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+</section>
+
+
+<!-- End Price Table Section -->
+
 
 <!-- <br>
 <br>

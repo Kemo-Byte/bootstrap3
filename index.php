@@ -394,6 +394,53 @@
 <!-- End Subscribe Section -->
 
 
+<!-- Start Statistics Section -->
+
+
+<section class="statistics text-center">
+	<div class="data">
+		<div class="container">
+			<h1>Our Statistics</h1>
+			<div class="row">
+				<div class="col-lg-3 col-sm-6">
+					<div class="stats">
+						<i class="fa fa-users fa-5x"></i>
+						<p>9,242</p>
+						<span>Satisfied Users </span>
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-sm-6">
+					<div class="stats">
+						<i class="fa fa-comments fa-5x"></i>
+						<p>32,242</p>
+						<span>Posted Comments</span>
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-sm-6">
+					<div class="stats">
+						<i class="fa fa-suitcase fa-5x"></i>
+						<p>2,242</p>
+						<span>Projects Done </span>
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-sm-6">
+					<div class="stats">
+						<i class="fa fa-support fa-5x"></i>
+						<p>1,242</p>
+						<span>Tickets Archived</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<!-- End Statistics Section -->
+
 <!-- <br>
 <br>
 <br>

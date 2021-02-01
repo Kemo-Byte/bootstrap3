@@ -377,6 +377,22 @@
 
 <!-- End Our Team Section -->
 
+<!-- Start Subscribe Section -->
+
+<section class="subscribe text-center">
+	<div class="conainer">
+		<h1>Keep in Touch</h1>
+		<p class="lead">Sign Up For News of our website.</p>
+		<form class="form-inline">
+			<input class="form-control input-lg" type="Email" name="subscribe" placeholder="Type Your Email" required="required" />
+			<button type="submit" class="btn-danger btn-lg"><i class="fa fa-edit fa-lg"></i>Subscribe</button>
+		</form>
+	</div>
+</section>
+
+
+<!-- End Subscribe Section -->
+
 
 <!-- <br>
 <br>

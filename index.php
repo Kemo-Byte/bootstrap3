@@ -311,6 +311,72 @@
 
 <!-- End Price Table Section -->
 
+<!-- Start Our Team Section -->
+
+<section class="our_team text-center">
+	<div class="team">
+		<div class="container">
+			<h1> Meet Our Awesome Team</h1>
+
+			<div class="row">
+				<div class="col-lg-3 col-sm-6">
+					<div class="person">
+						<img class="img-circle" src="images/av1.jpg" alt="av1" />
+						<h3>KemoByte</h3>
+						<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incid... </p>
+						<i class="fa fa-google-plus-square fa-3x"></i>
+						<i class="fa fa-facebook-square fa-3x"></i>
+						<i class="fa fa-twitter-square fa-3x"></i>
+						<i class="fa fa-youtube-square fa-3x"></i>
+					</div>
+				</div>
+				
+				<div class="col-lg-3 col-sm-6">
+					<div class="person">
+						<img class="img-circle" src="images/av2.png" alt="av2" />
+						<h3>Mustafa</h3>
+						<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incid... </p>
+						<i class="fa fa-google-plus-square fa-3x"></i>
+						<i class="fa fa-facebook-square fa-3x"></i>
+						<i class="fa fa-twitter-square fa-3x"></i>
+						<i class="fa fa-youtube-square fa-3x"></i>
+					</div>
+				</div>
+				
+				<div class="col-lg-3 col-sm-6">
+					<div class="person">
+						<img class="img-circle" src="images/av3.jpg" alt="av3" />
+						<h3>Ahmed</h3>
+						<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incid... </p>
+						<i class="fa fa-google-plus-square fa-3x"></i>
+						<i class="fa fa-facebook-square fa-3x"></i>
+						<i class="fa fa-twitter-square fa-3x"></i>
+						<i class="fa fa-youtube-square fa-3x"></i>
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-sm-6">
+					<div class="person">
+						<img class="img-circle" src="images/av4.png" alt="av4" />
+						<h3>Mohamed</h3>
+						<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incid... </p>
+						<i class="fa fa-google-plus-square fa-3x"></i>
+						<i class="fa fa-facebook-square fa-3x"></i>
+						<i class="fa fa-twitter-square fa-3x"></i>
+						<i class="fa fa-youtube-square fa-3x"></i>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- End Our Team Section -->
+
 
 <!-- <br>
 <br>

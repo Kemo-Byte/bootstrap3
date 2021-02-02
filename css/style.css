@@ -281,7 +281,11 @@ min-width: 200px;
 /*Start Our Team*/
 
 .our_team {
-	background: url('../images/team.jpg') no-repeat center center fixed;
+	background: url('../images/c3.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover
+	-o-background-size: cover
+	background-size: cover
 	min-height: 600px;
 }
 .our_team .team {
@@ -341,6 +345,10 @@ min-width: 200px;
 
 .statistics {
 	background: url("../images/stats.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover
+	-o-background-size: cover
+	background-size: cover
 	min-height: 300px;
 
 }

@@ -437,9 +437,66 @@
 		</div>
 	</div>
 </section>
-
-
 <!-- End Statistics Section -->
+
+
+<!-- Start Our Skills  Section-->
+
+<section class="our-skills text-center">
+	<div class="container">
+		<h1>Our Skills</h1>
+		
+		<div class="row">
+
+			<!-- Start Progress Skills -->
+			<div class="col-md-5">
+				<div class="progress-skills">
+					<div class="progress">
+						<div class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+							HTML5 / CSS3
+						</div>
+					</div>
+
+					<div class="progress">
+						<div class="progress-bar progress-bar-primary progress-bar-striped active" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+							PHP / MySQL
+						</div>
+					</div>
+
+					<div class="progress">	
+						<div class="progress-bar progress-bar-info progress-bar-striped active" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+							JavaScript / jQuery
+						</div>
+
+					</div>
+
+					<div class="progress">
+						<div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+							Wordpress
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- End Progress Skills -->
+
+			<!-- Start Team Info -->
+
+			<div class="col-md-6 col-md-offset-1">
+				<div class="skills-info text-left">
+					<h3> About The Team </h3>
+					<p class="lead">We are specialized designers and programmmers team , we will transfer your idea to digital and to make your dream to come true in a digital network</p>
+					<button type="button" class="btn btn-primary">Talk With Professtional</button>
+				</div>
+			</div>
+			<!-- End Team Info -->
+		</div>
+	</div>
+</section>
+
+
+
+<!-- End Our Skills Section -->
+
 
 <!-- <br>
 <br>

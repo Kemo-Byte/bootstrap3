@@ -382,4 +382,27 @@ min-width: 200px;
 .statistics span {
 	font-size: 18px;
 }
+
+
 /*End Statistics*/
+
+
+/*Start Our Skills*/
+
+
+.our-skills {
+	padding-top: 40px;
+	padding-bottom: 70px;
+
+}
+.our-skills h1 { margin-bottom: 60px; }
+.our-skills h3 { font-weight: bold; margin-top: 0; }
+.our-skills .progress { height: 36px; }
+.our-skills .progress-bar { 
+	font-weight: bold;
+	font-size: 15px;
+	line-height: 36px;
+	text-align: left;
+	text-indent: 10px;
+	 }
+/*End Our Skills*/

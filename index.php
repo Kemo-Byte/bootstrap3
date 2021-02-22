@@ -438,7 +438,7 @@
 	</div>
 </section>
 <!-- End Statistics Section -->
-
+<?php //echo User::all() ?>
 
 <!-- Start Our Skills  Section-->
 

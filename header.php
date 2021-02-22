@@ -1,3 +1,5 @@
+<?php include "init.php"; ?>
+
 <?php (isset($_GET['lang']))? include 'langs/'.$_GET["lang"].'.php' : include 'langs/english.php' ?>
 <!DOCTYPE html>
 <html lang="en">

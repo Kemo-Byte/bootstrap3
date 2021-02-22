@@ -498,6 +498,49 @@
 <!-- End Our Skills Section -->
 
 
+<!-- Start Contact Us -->
+<section class="contact-us text-center">
+
+	<div class="fields">
+		<div class="container">
+			<div class="row">
+				<i class="fa fa-headphones fa-5x"></i>
+				<h1>Tell Us What You Feel</h1>
+				<p class="lead">feel free to contact us anytime</p>
+				
+				<form role="form">
+					<div class="col-md-6">
+						<div class="form-group">
+							<input type="text" class="form-control input-lg" placeholder="Username" />
+						</div>
+
+						<div class="form-group">
+							<input type="text" class="form-control input-lg" placeholder="Email" />
+						</div>
+
+						<div class="form-group">
+							<input type="text" class="form-control input-lg" placeholder="Cell Phone" />
+						</div>
+					</div>
+
+					<div class="col-md-6">
+						<div class="form-group">
+							<textarea class="form-control input-lg">Your Message</textarea>
+						</div>
+						<div class="form-group">	
+							<button type="button" class="btn btn-primary btn-lg btn-block">Contact Us</button>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+</section>
+
+
+<!-- End Contact Us -->
+
 <!-- <br>
 <br>
 <br>

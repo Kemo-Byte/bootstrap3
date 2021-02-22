@@ -283,9 +283,9 @@ min-width: 200px;
 .our_team {
 	background: url('../images/c3.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
-	-moz-background-size: cover
-	-o-background-size: cover
-	background-size: cover
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 	min-height: 600px;
 }
 .our_team .team {
@@ -346,9 +346,9 @@ min-width: 200px;
 .statistics {
 	background: url("../images/stats.jpg") no-repeat center center fixed;
 	-webkit-background-size: cover;
-	-moz-background-size: cover
-	-o-background-size: cover
-	background-size: cover
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 	min-height: 300px;
 
 }
@@ -406,3 +406,36 @@ min-width: 200px;
 	text-indent: 10px;
 	 }
 /*End Our Skills*/
+
+
+/* Start Contact Us */
+.contact-us {
+	background: url("../images/contact-us.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 300px;
+}
+
+.contact-us .fields {
+	background: rgba(9,9,9,0.7);
+	min-height: 300px;
+	color: #DDD;
+	padding-top: 40px;
+	padding-bottom: 40px;
+
+}
+
+.contact-us p {margin-bottom: 40px;}
+.contact-us textarea {height: 108px;}
+
+
+/* Dark Version */
+/* .contact-us input[type='text'],
+.contact-us textarea {
+	background: rgba(82,78,78,0.5);
+	color: #fff;
+	border: none;
+} */
+/* End Contact Us */
